@@ -7,7 +7,7 @@
     android:background="#FFFF00"
     android:foregroundTint="@android:color/holo_blue_light"
     tools:context=".MainActivity"
-    android:id="@+id/mainActicity">
+    android:id="@+id/mainlayout">
 
     <TextView
         android:layout_width="wrap_content"
