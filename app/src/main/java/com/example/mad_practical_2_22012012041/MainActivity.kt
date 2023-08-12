@@ -6,8 +6,6 @@ import android.util.Log
 import android.widget.TextView
 import android.widget.Toast
 import com.google.android.material.snackbar.Snackbar
-import com.google.android.material.snackbar.Snackbar.SnackbarLayout
-import androidx.constraintlayout.widget.ConstraintLayout
 
 class MainActivity : AppCompatActivity() {
     var TAG : String = "MainActivity"
